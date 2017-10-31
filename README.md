@@ -25,6 +25,7 @@ NOTE: published files can be customized according to the owner needs, so please 
   - Specify title for your request and leave comment to it, click 'Create pull request' http://joxi.net/823Kgegh6gb9l2. Jelastic team will verify suggested changes and publish them in the project or send you some comments regarding changes in case of necessity.
   
 3. Suggest new files for public publishing
-If yu would like to suggest your translation, which is not available in this project, please, contact us on pmo@jelastic.com and attach your file to the email. Jelastic team will verify it and publish in the project.
+
+If you would like to suggest your translation, which is not available in this project, please, contact us on pmo@jelastic.com and attach your file to the email. Jelastic team will verify it and publish in the project.
 
   
