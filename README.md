@@ -12,6 +12,7 @@ Welcome to Jelastic custom localizations project. Here you have a possibility
   - Select the text of the file, copy it, paste in an empty document and save it. (Please note that before the upload the name of the document should be in format lang-fr.js, lang-en.js etc)
   - You can also download the whole project https://github.com/jelastic/localizations- by clicking on 'Clone or download' > 'Download ZIP'(Please check the screenshot http://joxi.net/823Kgegh6gl1L2)
   - Edit downloaded file according to your platform needs and upload it on your platform using this instruction: https://github.com/jelastic/localizations-/blob/master/Dashboard%20Localization%20Instruction.pdf
+
 NOTE: published files can be customized according to the owner needs, so please review the file and update according to your platform peculiarities before the upload.
 
 2. Suggest changes to existing files
