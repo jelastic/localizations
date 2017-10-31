@@ -18,7 +18,7 @@ NOTE: published files can be customized according to the owner needs, so please 
 2. Suggest changes to existing files
   - Go to the project https://github.com/jelastic/localizations-
   - Click 'Fork' http://joxi.net/Q2KBjdjC9MEDgm. The copy of project will be created for your account. All changes in this copy will be saved only for you, but not for public usage. 
-  - In order to suggest edits to public file, select necessary language and version folder, open file by clicking on it in forked project.
+  - In order to suggest edits to public file, Pull request should be made. Select necessary language and version folder, open file by clicking on it in forked project.
   - Click edit sign http://joxi.net/823Kgegh6gloP2
   - Make changes in the file
   - Go down to the end of the page, make comments like it is shown on the screenshot http://joxi.net/J2baJEJH4lW8Dm and click 'Commit changes'
