@@ -1,7 +1,5 @@
 
 
-var GLocal = {
-
     //
     // Common.
     //
