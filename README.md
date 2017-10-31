@@ -26,6 +26,6 @@ NOTE: published files can be customized according to the owner needs, so please 
   
 3. Suggest new files for public publishing
 
-If you would like to suggest your translation, which is not available in this project, please, contact us on pmo@jelastic.com and attach your file to the email. Jelastic team will verify it and publish in the project.
+  If you would like to suggest your translation, which is not available in this project, please, contact us on pmo@jelastic.com and attach your file to the email. Jelastic team will verify it and publish in the project.
 
   
