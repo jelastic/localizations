@@ -3385,7 +3385,7 @@ var GLocal = {
     // LT_EmptyItem field is used for internal system purposes. Please do not edit it and leave as is.
     ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-    LT_EmptyItem  
+    LT_EmptyItem                                : ""
 };
 
 
