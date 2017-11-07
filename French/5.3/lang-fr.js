@@ -1,10 +1,4 @@
-////////////////////////////////////////////////////////////////////////////////////////////////
-// This file contains string resources of the Jelastic dashboard, English version.            //
-// Newly added strings for every new release are marked with the comment "Release: N.N.N".    //
-// Please do not edit the keywords of the strings and also be attentive to the html encoding. //
-////////////////////////////////////////////////////////////////////////////////////////////////
 
-var GLocal = {
 
     //
     // Common.
