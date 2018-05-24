@@ -3448,9 +3448,9 @@ var GLocal = {
     LT_Context_Sequential_Deploy_Desc           : "Déploiement séquentiel avec delay (i.e. un par un) avec délai",
     LT_Context_Simultaneous_Deploy_Desc         : "Déploiement simultané(ex: tous en même temps)",
     LT_RestartNodes_Field_SequentialRestart     : "Redémarrage simultané (ex; un par un) avec délai",
-    LT_RestartNodes_Field_SimultaneousRestart   : "Redémarrage simultané(ex: tous en même temps)"
+    LT_RestartNodes_Field_SimultaneousRestart   : "Redémarrage simultané(ex: tous en même temps)",
     LT_Context_Sequential_SequentialUpdate      : "Mise à jour senquentielle (ex: un par un) avec délai",
-    LT_Context_Sequential_SimultaneousUpdate    : "Mise à jour simultanée (ex: tous en même temps)"
+    LT_Context_Sequential_SimultaneousUpdate    : "Mise à jour simultanée (ex: tous en même temps)",
 
     LT_Docs_ZDTModule                           : "[URL_DOCS_BLUE_GREEN_DEPLOY]Comment activé un déploiement sans arrêt[/URL_DOCS_BLUE_GREEN_DEPLOY]",
 
